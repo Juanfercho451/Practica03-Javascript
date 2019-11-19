@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+img {
+    position: relative;
+    width: 855px;
+    height: 641px;
+}
+#boton_1 {
+    padding:20px;
+    background:#9b7878;
+    color:white;
+    font:bold 10px/10px verdana;
+    width:100px;
+    cursor:pointer;
+    cursor:hand;
+    text-align:center;
+}
+#boton_2 {
+    padding:20px;
+    background:#9b7878;
+    color:white;
+    font:bold 10px/10px verdana;
+    width:100px;
+    cursor:pointer;
+    cursor:hand;
+    text-align:center;
+}
+#boton_3 {
+    padding:20px;
+    background:#9b7878;
+    color:white;
+    font:bold 10px/10px verdana;
+    width:100px;
+    cursor:pointer;
+    cursor:hand;
+    text-align:center;
+}

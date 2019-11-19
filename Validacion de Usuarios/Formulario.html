@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script type="text/javascript" src="js/validaciones_usuario.js"></script>
+    
+    <link rel="stylesheet" href="css/estilo.css">
+
+
+</head>
+
+<body class="cuerpo">
+
+    <form class="formulario" action="" method="POST" onsubmit="return valida(this);">
+        <h1 class="titulo">Validacion de Usuarios</h1>
+        <br>
+        
+        <div class="error" id="salidaCedula"></div>
+        <input class="formulario_input" type="text" id="cedula" name="cedula" value="" 
+        onblur="return revisar(this)" onkeyup="return validarCedula(this);" autocomplete="off"/>
+        <label class="formulario_label" for="cedula">Cedula (*)</label>
+        
+        
+
+        <div class="error" id="salidaNombres"></div>
+        <input class="formulario_input" type="text" id="nombres" name="nombres" value="" 
+        onkeyup="return validarNombre(this);"  autocomplete="off"/>
+        <label class="formulario_label" for="nombres">Nombres (*)</label>
+        
+        
+
+        <div class="error" id="salidaApellidos"></div>
+        <input class="formulario_input" type="text" id="apellidos" name="apellidos" 
+        value="" onkeyup="return validarApellido(this);"  autocomplete="off"/>
+        <label class="formulario_label" for="apellidos">Apellidos (*)</label>
+        
+        
+        <div class="error" id="salidaDireccion"></div>
+        <input class="formulario_input" type="text" id="direccion" name="direccion" 
+        value="" onkeyup="return validarDireccion(this);"  autocomplete="off"/>
+        <label class="formulario_label" for="direccion">Dirección (*)</label>
+        
+        <div class="error" id="salidaTelefono"></div>
+        <input class="formulario_input" type="text" id="telefono" name="telefono" 
+        value="" onkeyup="return validarTelefono(this);"  autocomplete="off"/>
+        <label class="formulario_label" for="telefono">Teléfono (*)</label>
+        
+
+        <div class="error" id="salidafechaNacimiento"></div>
+        <input class="formulario_input" type="text" id="fechaNacimiento" 
+        name="fechaNacimiento" value="" onkeyup="return validarFecha(this);"  
+        autocomplete="off"/>
+        <label class="formulario_label" for="fecha">Fecha Nacimiento(*)</label>
+         
+
+        <div class="error" id="salidaCorreo"></div>
+        <input class="formulario_input" type="text" id="correo" name="correo" value="" 
+        onkeyup="return validarCorreo(this);"  autocomplete="off"/>
+        <label class="formulario_label" for="correo">Correo electrónico (*)</label>
+        
+        <div class="error" id="salidaContrasena"></div> 
+        <input class="formulario_input" type="password" id="contrasena" name="contrasena" 
+        value="" onkeyup="return validarClave(this);"  autocomplete="off"/>
+        <label class="formulario_label" for="contrasena">Contraseña (*)</label>
+              
+        
+        <input class="enviar" type="submit" value="Enviar" />
+        <br>
+        <input class="borrar" type="reset" value="Borrar" />
+        </p>
+    </form>
+    <script src="js/form.js"></script>
+</body>
+
+</html>
