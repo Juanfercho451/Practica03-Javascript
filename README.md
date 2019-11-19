@@ -1,6 +1,6 @@
 # Practica03-Javascript
 
-Resolución de problemas sobre JavaScript
+### Resolución de problemas sobre JavaScript
 
 1 Diseñar una interfaz en HTML que permita ingresar los siguientes campos en
 un formulario: cedula, nombres, apellidos, dirección, teléfono, fecha de
