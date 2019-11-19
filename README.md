@@ -136,24 +136,90 @@ correctos teniendo en cuenta las siguientes condiciones:
 
 ![image](https://user-images.githubusercontent.com/56609114/69192748-38882a80-0af3-11ea-9388-1962fc96eec0.png)
 
+## JAVASCRIPTS usado para la nimacion de los Labels  y de los Inputs
+
+![image](https://user-images.githubusercontent.com/56609114/69192877-843ad400-0af3-11ea-93d6-2dbcb9f98ae2.png)
 
 
+## BOTONES
+
+![image](https://user-images.githubusercontent.com/56609114/69192885-86049780-0af3-11ea-80e7-64825d54cb36.png)
+
+## HTML
+
+![image](https://user-images.githubusercontent.com/56609114/69192893-88ff8800-0af3-11ea-8bd9-6c335ce40d36.png)
+
+### Al presionar el botón enviar y no haber llenado los datos nos aparecerá un erro como alerta:
+
+![image](https://user-images.githubusercontent.com/56609114/69192979-c106cb00-0af3-11ea-877d-b0917723f6d7.png)
+
+## JAVASCRIPT
+
+![image](https://user-images.githubusercontent.com/56609114/69193006-d845b880-0af3-11ea-8a6b-0c7ff8e37d53.png)
 
 
+## Diseñar una interfaz en html que tenga tres botones que diga “Anterior”, “Iniciar”, “Siguiente”, y una imagen. Luego, desde javascript se debe controlar para al hacer clic sobre uno de los botones realice una acción relacionada a una galería de imágenes (ver ejemplo, https://gihp4c.blog.ups.edu.ec/) 
+
+![image](https://user-images.githubusercontent.com/56609114/69193071-f8757780-0af3-11ea-9344-c6a96dbac78d.png)
+
+![image](https://user-images.githubusercontent.com/56609114/69193075-fad7d180-0af3-11ea-80a2-2348159df6c5.png)
+
+![image](https://user-images.githubusercontent.com/56609114/69193089-fdd2c200-0af3-11ea-8320-1c574e997ab4.png)
+
+## HTML
+
+![image](https://user-images.githubusercontent.com/56609114/69193120-12af5580-0af4-11ea-86e6-38e3b62513c2.png)
+
+## JAVASCRIPT
+
+![image](https://user-images.githubusercontent.com/56609114/69193147-193dcd00-0af4-11ea-8d2e-06d0865d9b93.png)
 
 
+### Se debe tener, un arreglo con los nombres de diez imágenes, previamente descargadas y almacenadas en una carpeta llamada “images”.
+
+![image](https://user-images.githubusercontent.com/56609114/69193199-3a9eb900-0af4-11ea-8d19-325a0bb2a898.png)
+
+### La galería de imágenes debe visualizar exclusivamente 5 imágenes.
+
+# JAVASCRIPT BOTON INICIAR
+
+![image](https://user-images.githubusercontent.com/56609114/69193246-53a76a00-0af4-11ea-8672-ac02f3dbb11c.png)
+
+### Al hacer clic en el botón siguiente y haber llegado a la última imagen disponible, el botón siguiente deberá ser deshabilitado (sólo cuando se ha llegado a la última imagen el botón siguiente deberá estar deshabilitado)
+
+## JAVASCRIPT BOTON SIGUIENTE
+
+![image](https://user-images.githubusercontent.com/56609114/69193303-6f127500-0af4-11ea-9cce-ac69ac85abba.png)
+
+![image](https://user-images.githubusercontent.com/56609114/69193323-79347380-0af4-11ea-9fe7-0eace2e66232.png)
+
+### Al hacer clic en el botón anterior y haber llegado a la primera imagen disponible, el botón anterior deberá ser deshabilitado (sólo cuando se ha llegado a la última imagen y cuando se inicie la galería de imágenes el botón anterior deberá estar deshabilitado)
+
+## JAVASCRIPT BOTON SIGUIENTE
+
+![image](https://user-images.githubusercontent.com/56609114/69193386-910bf780-0af4-11ea-9739-d4c6abaf8eec.png)
+
+![image](https://user-images.githubusercontent.com/56609114/69193390-936e5180-0af4-11ea-9964-f6387a160f1f.png)
+
+ ### La evidencia del correcto diseño de las páginas HTML usando CSS. Para lo cuál, se puede generar fotografías instantáneas (pantallazos).  
+ 
+ ## Validación de usuarios CSS
+ 
+![image](https://user-images.githubusercontent.com/56609114/69193445-b0a32000-0af4-11ea-9877-89016237d7c0.png)
+
+![image](https://user-images.githubusercontent.com/56609114/69193453-b436a700-0af4-11ea-9555-7023950b190b.png)
+ 
+## Galería CSS
+
+![image](https://user-images.githubusercontent.com/56609114/69193495-d2040c00-0af4-11ea-8a43-d465a766a5b5.png)
 
 
+Docente:  Ing. Gabriel León Paredes, PhD.
 
+![image](https://user-images.githubusercontent.com/56609114/69193582-0a0b4f00-0af5-11ea-883d-b6c05f8c1201.png)
 
+Nombre de estudiante: Juan Fernando Cordova
 
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/56609114/69193524-ecd68080-0af4-11ea-82bc-86217b6ff67f.png)
 
 
